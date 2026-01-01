@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Binary file for the dummy provider
+/gohl-provider-dummy
